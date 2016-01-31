@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "maps, car trips, Switzerland, Lugano, data mapping, Auto Club, Southern California, family travel, lifetime, TripIt, Let's Go, Europe, Tourist Office, travel safety, female traveller"
-datePublished: '2016-01-31T06:22:13.724Z'
+datePublished: '2016-01-31T06:22:13.744Z'
 dateModified: '2016-01-31T06:22:04.817Z'
 title: Mapping My Life
 author: []
