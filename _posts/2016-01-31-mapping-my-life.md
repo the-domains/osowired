@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "maps, car trips, Switzerland, Lugano, data mapping, Auto Club, Southern California, family travel, lifetime, TripIt, Let's Go, Europe, Tourist Office, travel safety, female traveller"
-datePublished: '2016-01-31T00:11:49.139Z'
-dateModified: '2016-01-31T00:10:32.041Z'
+datePublished: '2016-01-31T06:11:48.899Z'
+dateModified: '2016-01-31T06:11:34.750Z'
 title: Mapping My Life
 author: []
+sourcePath: _posts/2016-01-31-mapping-my-life.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-mapping-my-life.md
-published: true
 url: mapping-my-life/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d2607e1-af99-43fb-aedb-08b0f19f857a.jpg)
+
 Mapping My Life
 
 There is a richness to the colourful inks and thick, hearty paper that most maps are printed on.  This richness has seeped into my life and
@@ -80,6 +82,7 @@ leapfrogged ahead of the competition with deeper features.
 Digital mapping, from the GPS in my car, to
 the online mapping data I use to inform my media buying, is still very much a
 part of my life.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b4a3f57-5718-4de4-b75b-cd244553b4db.jpg)
 
 Last Winter, while the snow howled
 outside, I used an app called Tripit to pull together all of my plane flights, hotel and dinner reservations, tour
