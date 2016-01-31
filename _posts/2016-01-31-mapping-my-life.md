@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "maps, car trips, Switzerland, Lugano, data mapping, Auto Club, Southern California, family travel, lifetime, TripIt, Let's Go, Europe, Tourist Office, travel safety, female traveller"
-datePublished: '2016-01-31T06:11:48.982Z'
-dateModified: '2016-01-31T06:11:34.750Z'
+datePublished: '2016-01-31T06:22:13.724Z'
+dateModified: '2016-01-31T06:22:04.817Z'
 title: Mapping My Life
 author: []
 sourcePath: _posts/2016-01-31-mapping-my-life.md
@@ -22,7 +22,7 @@ url: mapping-my-life/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d2607e1-af99-43fb-aedb-08b0f19f857a.jpg)
+![Me, cake pop, map](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6357d16ea7d0e519b4224403d8db3aca7439609.jpg)
 
 Mapping My Life
 
@@ -31,15 +31,11 @@ wound its way through it, much the way the roads will wind along toward one's
 destination.
 
 In the 1970's in Southern
-California, it was a car culture.
-
-Our gloveboxes were filled with blue folded maps from the Auto Club. We even had a dark blue plastic envelope to
+California, it was a car culture. Our gloveboxes were filled with blue folded maps from the Auto Club. We even had a dark blue plastic envelope to
 keep those uniform-sized vertical maps organized.
 
 Family vacations were road
-trips.
-
-Whether it was to explore the
+trips. Whether it was to explore the
 mountains or a lengthy trip to visit family many states away, we'd get out the
 maps to study the way to our destination -- or have the Auto Club build us a TripTik with page after page of spiral-bound mini maps with red-highlighted route
 suggestions.
@@ -82,7 +78,7 @@ leapfrogged ahead of the competition with deeper features.
 Digital mapping, from the GPS in my car, to
 the online mapping data I use to inform my media buying, is still very much a
 part of my life.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b4a3f57-5718-4de4-b75b-cd244553b4db.jpg)
+![TripIt transportation map](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c07b6dfaffcf47cc0b082fb8050c95c9eb80112.jpg)
 
 Last Winter, while the snow howled
 outside, I used an app called Tripit to pull together all of my plane flights, hotel and dinner reservations, tour
