@@ -1,28 +1,40 @@
-name: osowired
-favicon: null
 layout_spectrum: 0.8077482031658292
-typography_spectrum: 0.9142153470311314
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: osowired
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.5085106
+  lightness: 0.406383
+  saturation: 0.7021276
+  rhythmicContrast: 0.5808511
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6775081851519644
-  lightness: 0.312777082901448
-  saturation: 0.5202432181686163
-  rhythmicContrast: 0.30764529341831803
-purpose: []
+typography_spectrum: 0.5553191
