@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "maps, car trips, Switzerland, Lugano, data mapping, Auto Club, Southern California, family travel, lifetime, TripIt, Let's Go, Europe, Tourist Office, travel safety, female traveller"
-datePublished: '2016-01-31T06:22:13.803Z'
-dateModified: '2016-01-31T06:22:04.817Z'
+description: "There is a richness to the colourful inks and thick, hearty paper that most maps are printed on. \_This richness has seeped into my life and\nwound its way through it, much the way the roads will wind along toward one’s\ndestination."
+datePublished: '2016-03-13T18:54:51.087Z'
+dateModified: '2016-03-13T18:54:36.264Z'
 title: Mapping My Life
 author: []
 sourcePath: _posts/2016-01-31-mapping-my-life.md
@@ -22,9 +22,7 @@ url: mapping-my-life/index.html
 _type: Article
 
 ---
-![Me, cake pop, map](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6357d16ea7d0e519b4224403d8db3aca7439609.jpg)
-
-Mapping My Life
+![Map in my office](https://the-grid-user-content.s3-us-west-2.amazonaws.com/082ccd2f-4045-4dac-a5ec-3b4357078f21.jpg)
 
 There is a richness to the colourful inks and thick, hearty paper that most maps are printed on.  This richness has seeped into my life and
 wound its way through it, much the way the roads will wind along toward one's
@@ -70,7 +68,7 @@ arrived earlier than the release date, we'd be tempting a retailer to sell early
 were some very angry customers tracking me down. 
 
 By 1996, Mapquest came on the scene and getting from place to place was a direction search and
-simple print away.In hindsight, this was revolutionary.
+simple print away.  In hindsight, this was revolutionary.
 
 In the 2000's, Google Maps
 leapfrogged ahead of the competition with deeper features.
@@ -78,7 +76,7 @@ leapfrogged ahead of the competition with deeper features.
 Digital mapping, from the GPS in my car, to
 the online mapping data I use to inform my media buying, is still very much a
 part of my life.
-![TripIt transportation map](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c07b6dfaffcf47cc0b082fb8050c95c9eb80112.jpg)
+![TripIt Europe Transportation Map](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c7c6c0-3adf-4711-881e-b377b420ef9d.jpg)
 
 Last Winter, while the snow howled
 outside, I used an app called Tripit to pull together all of my plane flights, hotel and dinner reservations, tour
