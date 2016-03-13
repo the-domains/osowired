@@ -1,7 +1,7 @@
 name: osowired
 favicon: null
 layout_spectrum: 0.8077482031658292
-typography_spectrum: 0.75
+typography_spectrum: 0.86201
 collections:
   - index:
       navigable: true
